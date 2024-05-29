@@ -1,3 +1,5 @@
 # Learning
 Starting to learn github/git bash
-Hello my name is Anand
+
+namaste 123
+Hello my name is Anand.
